@@ -2,7 +2,7 @@
 Simple CRUD Django Web App for displaying Workers and having CRUD operations. (Python, Bootstrap)
 
 
-##Run##
+##Run
 _________________________________________________
 
 1. Go to root/src
@@ -12,7 +12,7 @@ _________________________________________________
 5. "python manage.py runserver"
 
 
-##CRUD Operations##
+##CRUD Operations
 _________________________________________________
 
 1. Go to localhost:8000/admin/
