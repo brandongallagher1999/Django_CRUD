@@ -16,4 +16,5 @@ _________________________________________________
 _________________________________________________
 
 1. Go to localhost:8000/admin/
+2. User: crypt   | Password: password
 2. Perform CRUD operations in Workers Model.
